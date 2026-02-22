@@ -16,3 +16,6 @@ downloads/
 # IDE
 .vscode/
 .idea/
+
+# Agent Config
+GEMINI.md
